@@ -3,3 +3,13 @@ tittle = "setting file"
 [setting]
 app_name= "myapp"
 app_version= "1.0.0"
+
+# 配列
+year_list= [2018,2019,2020]
+
+# マイナス値
+minus_value= -10
+
+# bool
+is_true= true
+is_false= false

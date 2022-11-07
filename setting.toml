@@ -1,1 +1,5 @@
 tittle = "setting file"
+
+[setting]
+app_name= "myapp"
+app_version= "1.0.0"

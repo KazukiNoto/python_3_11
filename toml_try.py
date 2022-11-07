@@ -1,5 +1,5 @@
 """
-3.11から標準ライブラリだけで読み込み可能となったTOMLファイルの読み込み
+tomlファイルの読み込み
 """
 import toml
 
@@ -10,3 +10,5 @@ print(data)
 
 # tittleだけ取り出す
 print(data['tittle'])
+
+print(data["setting"]["app_name"])
